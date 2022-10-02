@@ -17,8 +17,9 @@ The name must match to the name in the title:
 ```md
 ## My Project
 
-> https://example.com
+<!-- The link must be a github link -->
+https://example.com
 
 <!-- Description -->
-Ya-ong miauw mi'au miaou njäu meogre. Niaou miaou mjau niaou mi'au. Mjá ngiyaw miáú miauw mjau miauw meo.
+> Ya-ong miauw mi'au miaou njäu meogre. Niaou miaou mjau niaou mi'au. Mjá ngiyaw miáú miauw mjau miauw meo.
 ```
