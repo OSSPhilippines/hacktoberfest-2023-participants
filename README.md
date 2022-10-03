@@ -11,6 +11,7 @@ List of awesome projects participating in Hacktober Fest 2022
 - [Vue HTML To Paper](#vue-html-to-paper)
 - [Vue WYSIWYG](#vue-wysiwyg)
 - [Vue Jitsi Meet](#vue-jitsi-meet)
+- [Vue Croppie](#vue-croppie)
 
 # Projects
 
@@ -55,3 +56,9 @@ A simple wysiwyg editor for Vue.js by MYCURE Inc.
 https://github.com/mycurelabs/vue-jitsi-meet
 
 Vue component for Jitsi Meet Web Integration via IFrame.
+
+## Vue Croppie
+
+https://github.com/jofftiquez/vue-croppie
+
+VueCroppie is a Vue 2 wrapper for Croppie a beautiful photo cropping tool for Javascript by foliotek.
