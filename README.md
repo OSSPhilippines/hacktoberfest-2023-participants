@@ -14,6 +14,7 @@ List of awesome projects participating in Hacktober Fest 2022
 - [Vue Croppie](#vue-croppie)
 - [Vue Media Query Mixin](#vue-media-query-mixin)
 - [JS for CSS](#js-for-css)
+- [Image Fallback](#v-img-fallback)
 
 # Projects
 
@@ -76,3 +77,9 @@ A vue mixin to get current media query, xs, sm, md, lg and xl.
 https://github.com/jofftiquez/js-for-css
 
 Write CSS selectors using javascript!
+
+## V Img Fallback
+
+https://github.com/jofftiquez/v-img-fallback
+
+Vue image placeholder directive for broken images.
