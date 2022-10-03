@@ -15,6 +15,7 @@ List of awesome projects participating in Hacktober Fest 2022
 - [Vue Media Query Mixin](#vue-media-query-mixin)
 - [JS for CSS](#js-for-css)
 - [Image Fallback](#v-img-fallback)
+- [Vue HTML2Canvas](#vue-html2canvas)
 
 # Projects
 
@@ -83,3 +84,9 @@ Write CSS selectors using javascript!
 https://github.com/jofftiquez/v-img-fallback
 
 Vue image placeholder directive for broken images.
+
+## Vue HTML2Canvas
+
+https://github.com/mycurelabs/vue-html2canvas
+
+Vue mixin for Html2Canvas
