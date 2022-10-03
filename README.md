@@ -12,6 +12,7 @@ List of awesome projects participating in Hacktober Fest 2022
 - [Vue WYSIWYG](#vue-wysiwyg)
 - [Vue Jitsi Meet](#vue-jitsi-meet)
 - [Vue Croppie](#vue-croppie)
+- [Vue Media Query Mixin](#vue-media-query-mixin)
 
 # Projects
 
@@ -62,3 +63,9 @@ Vue component for Jitsi Meet Web Integration via IFrame.
 https://github.com/jofftiquez/vue-croppie
 
 VueCroppie is a Vue 2 wrapper for Croppie a beautiful photo cropping tool for Javascript by foliotek.
+
+## Vue Media Query Mixin
+
+https://github.com/jofftiquez/vue-media-query-mixin
+
+A vue mixin to get current media query, xs, sm, md, lg and xl.
