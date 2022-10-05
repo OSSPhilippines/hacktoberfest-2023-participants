@@ -1,5 +1,7 @@
 # Hacktober Fest 2022 Participants
 
+![OSSPH_Hacktober](https://user-images.githubusercontent.com/73274076/194005264-5e2429d2-c6de-41fc-b5e3-671afc16f60a.png)
+
 List of awesome projects participating in Hacktober Fest 2022
 
 # Table Of Contents
