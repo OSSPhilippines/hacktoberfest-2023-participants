@@ -1,6 +1,6 @@
 # Hacktober Fest 2022 Participants
 
-<img src="https://github.com/12-malak/hacktober-fest-2022-participants/blob/main/Logo.png" alt="hi" class="inline"/>
+
 
 List of awesome projects participating in Hacktober Fest 2022
 
