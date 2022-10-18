@@ -23,6 +23,7 @@ List of awesome projects participating in Hacktober Fest 2022
   - [Vue HTML2Canvas](#vue-html2canvas)
   - [GatherTownJS](#gathertownjs)
   - [Web3 Philippines Directory](#web3-philippines-directory)
+  - [Web3 Philippines Bio](#web3-philippines-bio)
 
 # Projects
 
@@ -109,3 +110,9 @@ https://github.com/warengonzaga/gathertown.js
 https://github.com/web3phl/directory
 
 > Directory is an open-source web application digital local directory of awesome Web3 things curated by the community. Actively maintained by the Web3 community in the Philippines.
+
+## Web3 Philippines Bio
+
+https://github.com/web3phl/bio
+
+> Bio is an open-source community made bio. Actively maintained by the Web3 community in the Philippines.
