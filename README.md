@@ -22,6 +22,7 @@ List of awesome projects participating in Hacktober Fest 2022
   - [V Img Fallback](#v-img-fallback)
   - [Vue HTML2Canvas](#vue-html2canvas)
   - [GatherTownJS](#gathertownjs)
+  - [BuyMeaCoffeeJS](#buymeacoffeejs)
   - [Web3 Philippines Directory](#web3-philippines-directory)
   - [Web3 Philippines Bio](#web3-philippines-bio)
 
@@ -104,6 +105,12 @@ https://github.com/mycurelabs/vue-html2canvas
 https://github.com/warengonzaga/gathertown.js
 
 > Simple and lightweight community contributed unofficial JS/TS SDK for Gather Town's HTTPS and WebSocket APIs.
+
+## BuyMeaCoffeeJS
+
+https://github.com/warengonzaga/buymeacoffee.js
+
+> Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API.
 
 ## Web3 Philippines Directory
 
