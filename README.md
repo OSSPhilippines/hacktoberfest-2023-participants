@@ -22,8 +22,10 @@ List of awesome projects participating in Hacktober Fest 2022
   - [V Img Fallback](#v-img-fallback)
   - [Vue HTML2Canvas](#vue-html2canvas)
   - [GatherTownJS](#gathertownjs)
+  - [BuyMeaCoffeeJS](#buymeacoffeejs)
   - [Web3 Philippines Directory](#web3-philippines-directory)
   - [Web3 Philippines Bio](#web3-philippines-bio)
+  - [Update Your Footer WP](#update-your-footer-wp)
 
 # Projects
 
@@ -105,6 +107,12 @@ https://github.com/warengonzaga/gathertown.js
 
 > Simple and lightweight community contributed unofficial JS/TS SDK for Gather Town's HTTPS and WebSocket APIs.
 
+## BuyMeaCoffeeJS
+
+https://github.com/warengonzaga/buymeacoffee.js
+
+> Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API.
+
 ## Web3 Philippines Directory
 
 https://github.com/web3phl/directory
@@ -116,3 +124,9 @@ https://github.com/web3phl/directory
 https://github.com/web3phl/bio
 
 > Bio is an open-source community made bio. Actively maintained by the Web3 community in the Philippines.
+
+## Update Your Footer WP
+
+https://github.com/warengonzaga/update-your-footer-wp
+
+> Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
