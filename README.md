@@ -3,7 +3,7 @@
 
 # Hacktober Fest 2023 Participants
 
-List of awesome projects participating in Hacktober Fest 2022
+List of awesome projects participating in Hacktober Fest 2023
 
 # Table Of Contents
 
@@ -27,6 +27,7 @@ List of awesome projects participating in Hacktober Fest 2022
   - [Web3 Philippines Directory](#web3-philippines-directory)
   - [Web3 Philippines Bio](#web3-philippines-bio)
   - [Update Your Footer WP](#update-your-footer-wp)
+  - [Faker.js UI](#faker-js-ui)
 
 # Projects
 
@@ -131,3 +132,12 @@ https://github.com/web3phl/bio
 https://github.com/warengonzaga/update-your-footer-wp
 
 > Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
+
+## Faker JS UI
+
+https://fakerjsui.com
+
+> Simple and intuitive UI for Faker.js
+
+
+
