@@ -1,6 +1,7 @@
-<img src="assets/Logo.png">
+![image](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/assets/8638243/b28c0bbc-7fb8-4c47-8637-c20baee096b0)
 
-# Hacktober Fest 2022 Participants
+
+# Hacktober Fest 2023 Participants
 
 List of awesome projects participating in Hacktober Fest 2022
 
