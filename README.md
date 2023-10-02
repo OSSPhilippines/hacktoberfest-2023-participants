@@ -28,6 +28,7 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Web3 Philippines Bio](#web3-philippines-bio)
   - [Update Your Footer WP](#update-your-footer-wp)
   - [Faker.js UI](#faker-js-ui)
+  - [Trébol](#trébol)
 
 # Projects
 
