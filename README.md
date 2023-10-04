@@ -29,22 +29,24 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Vue WYSIWYG](#vue-wysiwyg)
   - [Web3 Philippines Bio](#web3-philippines-bio)
   - [Web3 Philippines Directory](#web3-philippines-directory)
+  - [Web3 Philippines Bio](#web3-philippines-bio)
+  - [Update Your Footer WP](#update-your-footer-wp)
+  - [Faker.js UI](#faker-js-ui)
+  - [Trébol](#trébol)
 
-## Projects
+# Projects
 
+## Vue Stripe
 
+https://github.com/vue-stripe/vue-stripe
 
-## BuyMeaCoffeeJS
+> Stripe Checkout & Elements for Vue.js
 
-https://github.com/warengonzaga/buymeacoffee.js
+## Node Paymongo
 
-> Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API.
+https://github.com/jofftiquez/paymongo
 
-## Faker JS UI
-
-https://fakerjsui.com
-
-> Simple and intuitive UI for Faker.js
+> A lighweight Node.js client for Paymongo API.
 
 ## Freefolio
 
