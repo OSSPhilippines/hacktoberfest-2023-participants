@@ -151,33 +151,6 @@ https://github.com/trebol-ecommerce
 
 > eCommerce stack. Aims to be highly adaptive and extensible.
 
-
-
-
-## Web3 Philippines Bio
-
-https://github.com/web3phl/bio
-
-> Bio is an open-source community made bio. Actively maintained by the Web3 community in the Philippines.
-
-## Update Your Footer WP
-
-https://github.com/warengonzaga/update-your-footer-wp
-
-> Simple and lightweight WordPress shortcode plugin to automagically update your footer year notice. No annoying ads!
-
-## Faker JS UI
-
-https://fakerjsui.com
-
-> Simple and intuitive UI for Faker.js
-
-## Trébol
-
-https://github.com/trebol-ecommerce
-
-> eCommerce stack. Aims to be highly adaptive and extensible.
-
 ## Covid19 Tracker CLI
 
 https://github.com/OSSPhilippines/covid19-tracker-cli
