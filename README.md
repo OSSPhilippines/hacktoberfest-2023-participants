@@ -33,6 +33,11 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Update Your Footer WP](#update-your-footer-wp)
   - [Faker.js UI](#faker-js-ui)
   - [Trébol](#trébol)
+  - [Covid19 Tracker CLI](#covid19-tracker-cli)
+  - [Vue Animate CSS](#vue-animate-css)
+  - [Awesome Pinoy Made](#awesome-pinoy-made)
+  - [Philippine Standard Geographic Code (PSGC) API](#philippine-standard-geographic-code-psgc-api)
+  - [Vue Use Money](#vue-use-money)
 
 # Projects
 
@@ -149,3 +154,33 @@ https://github.com/web3phl/bio
 https://github.com/web3phl/directory
 
 > Directory is an open-source web application digital local directory of awesome Web3 things curated by the community. Actively maintained by the Web3 community in the Philippines.
+
+## Covid19 Tracker CLI
+
+https://github.com/OSSPhilippines/covid19-tracker-cli
+
+> A console-oriented COVID-19 tracker with real-time updates for your favorite terminal. 💻🌏😷
+
+## Vue Animate CSS
+
+https://github.com/OSSPhilippines/v-animate-css
+
+> The easiest to implement Vue directive for Animate.css.
+
+## Awesome Pinoy Made
+
+https://github.com/OSSPhilippines/awesome-pinoy-made
+
+> A collection of libraries, and open-source projects lead by Filipino authors/maintainers.
+
+## Philippine Standard Geographic Code (PSGC) API
+
+https://github.com/OSSPhilippines/psgc-api
+
+> API used for listing all the region, province, city, municipality, and barangay. Philippine Standard Geographic Codes as of 30 September 2020 (3Q).
+
+## Vue Use Money
+
+https://github.com/OSSPhilippines/use-money
+
+> A Vue 3 component and composable for formatting money
