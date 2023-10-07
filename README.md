@@ -28,6 +28,12 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Web3 Philippines Bio](#web3-philippines-bio)
   - [Update Your Footer WP](#update-your-footer-wp)
   - [Faker.js UI](#faker-js-ui)
+  - [Trébol](#trébol)
+  - [Covid19 Tracker CLI](#covid19-tracker-cli)
+  - [Vue Animate CSS](#vue-animate-css)
+  - [Awesome Pinoy Made](#awesome-pinoy-made)
+  - [Philippine Standard Geographic Code (PSGC) API](#philippine-standard-geographic-code-psgc-api)
+  - [Vue Use Money](#vue-use-money)
 
 # Projects
 
@@ -172,9 +178,6 @@ https://github.com/trebol-ecommerce
 
 > eCommerce stack. Aims to be highly adaptive and extensible.
 
-
-
-
 ## Covid19 Tracker CLI
 
 https://github.com/OSSPhilippines/covid19-tracker-cli
@@ -203,4 +206,4 @@ https://github.com/OSSPhilippines/psgc-api
 
 https://github.com/OSSPhilippines/use-money
 
-> A Vue 3 component and composable for formatting money
+> A Vue 3 component and composable for formatting money.
