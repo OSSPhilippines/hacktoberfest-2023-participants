@@ -35,6 +35,7 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Philippine Standard Geographic Code (PSGC) API](#philippine-standard-geographic-code-psgc-api)
   - [Vue Use Money](#vue-use-money)
   - [Remote-Jobs](#remote-jobs)
+  - [Free Courses With Certificates](#free-courses-with-certificates)
 
 # Projects
 
