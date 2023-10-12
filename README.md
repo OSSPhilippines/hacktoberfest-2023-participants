@@ -7,7 +7,7 @@ List of awesome projects participating in Hacktober Fest 2023
 
 # Table Of Contents
 
-- [Hacktober Fest 2022 Participants](#hacktober-fest-2022-participants)
+- [Hacktober Fest 2023 Participants](#hacktober-fest-2023-participants)
 - [Table Of Contents](#table-of-contents)
 - [Projects](#projects)
   - [Vue Stripe](#vue-stripe)
@@ -187,3 +187,10 @@ https://github.com/OSSPhilippines/use-money
 https://github.com/remoteintech/remote-jobs
 
 > A list of semi to fully remote-friendly companies (jobs) in tech.
+
+## Free-courses-with-Certificates
+
+https://github.com/avinash201199/Free-courses-with-Certificates
+
+> Collection of free courses with certificates
+
