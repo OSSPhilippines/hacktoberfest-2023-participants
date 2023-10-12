@@ -34,6 +34,7 @@ List of awesome projects participating in Hacktober Fest 2023
   - [Awesome Pinoy Made](#awesome-pinoy-made)
   - [Philippine Standard Geographic Code (PSGC) API](#philippine-standard-geographic-code-psgc-api)
   - [Vue Use Money](#vue-use-money)
+  - [Remote-Jobs](#remote-jobs)
 
 # Projects
 
@@ -181,8 +182,15 @@ https://github.com/OSSPhilippines/use-money
 
 > A Vue 3 component and composable for formatting money.
 
+## Remote-Jobs
+
+https://github.com/remoteintech/remote-jobs
+
+> A list of semi to fully remote-friendly companies (jobs) in tech.
+
 ## Free-courses-with-Certificates
 
 https://github.com/avinash201199/Free-courses-with-Certificates
 
 > Collection of free courses with certificates
+
