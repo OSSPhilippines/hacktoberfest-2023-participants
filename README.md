@@ -180,3 +180,9 @@ https://github.com/OSSPhilippines/psgc-api
 https://github.com/OSSPhilippines/use-money
 
 > A Vue 3 component and composable for formatting money.
+
+## Free-courses-with-Certificates
+
+https://github.com/avinash201199/Free-courses-with-Certificates
+
+> Collection of free courses with certificates
